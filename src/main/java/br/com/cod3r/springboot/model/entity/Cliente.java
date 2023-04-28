@@ -1,4 +1,4 @@
-package br.com.cod3r.springboot.model;
+package br.com.cod3r.springboot.model.entity;
 
 public class Cliente {
 	

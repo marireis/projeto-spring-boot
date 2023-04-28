@@ -1,4 +1,4 @@
-package br.com.cod3r.springboot.controllers;
+package br.com.cod3r.springboot.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
